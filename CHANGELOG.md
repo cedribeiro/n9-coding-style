@@ -1,5 +1,12 @@
 
 
+# [6.1.0-rc.0](https://github.com/neo9/n9-coding-style/compare/6.0.0-rc.3...6.1.0-rc.0) (2023-12-12)
+
+
+### release
+
+* V 6.0.0 ([e142b07](https://github.com/neo9/n9-coding-style/commit/e142b07b975b5d318d98b51650b4f63aeee5b0d6))
+
 # [6.0.0](https://github.com/neo9/n9-coding-style/compare/6.0.0-rc.3...6.0.0) (2023-11-14)
 
 # [6.0.0-rc.3](https://github.com/neo9/n9-coding-style/compare/6.0.0-rc.2...6.0.0-rc.3) (2023-10-24)
